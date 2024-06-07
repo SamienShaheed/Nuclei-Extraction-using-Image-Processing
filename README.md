@@ -31,6 +31,7 @@
 
 - **Cell Image 1**:
   - Original and processed images are displayed.
+  - ![Original Cell Image](https://github.com/SamienShaheed/Nuclei-Extraction-using-Image-Processing/tree/main/Original%20Images/StackNinja1.bmp)
   
 - **Cell Image 2**:
   - Original and processed images are displayed.

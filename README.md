@@ -32,12 +32,17 @@
 - **Cell Image 1**:
   - Original and processed images are displayed.
   - ![Original Image](https://raw.githubusercontent.com/SamienShaheed/Nuclei-Extraction-using-Image-Processing/main/Original%20Images/StackNinja1.bmp)
+  - ![Final Image](https://raw.githubusercontent.com/SamienShaheed/Nuclei-Extraction-using-Image-Processing/main/Output%20Images/Picture1.png)
   
 - **Cell Image 2**:
   - Original and processed images are displayed.
+  - ![Original Image](https://raw.githubusercontent.com/SamienShaheed/Nuclei-Extraction-using-Image-Processing/main/Original%20Images/StackNinja2.bmp)
+  - ![Final Image](https://raw.githubusercontent.com/SamienShaheed/Nuclei-Extraction-using-Image-Processing/main/Output%20Images/Picture2.png)
 
 - **Cell Image 3**:
   - Original and processed images are displayed.
+  - ![Original Image](https://raw.githubusercontent.com/SamienShaheed/Nuclei-Extraction-using-Image-Processing/main/Original%20Images/StackNinja3.bmp)
+  - ![Final Image](https://raw.githubusercontent.com/SamienShaheed/Nuclei-Extraction-using-Image-Processing/main/Output%20Images/Picture3.png)
 
 ## Critical Analysis
 
